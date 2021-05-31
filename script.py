@@ -36,8 +36,6 @@ def detectorDeCoordenadas():
         print(currentMouseX, currentMouseY)
 
         # Aguarda um botão ser apertado para mostrar novamente
-      g
-        
         #Enccerra o loop
         if keyboard.read_key() == "esc":
             print("Progam finish")
