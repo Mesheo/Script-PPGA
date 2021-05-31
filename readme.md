@@ -1,5 +1,5 @@
 ﻿#### ***ATTENTION***
->apesar do código funcionar pra boa parte da tela verifique se a quantidade de botões e as coordenadas (usando a função detectorDeCoordenada) estão corretas. É necessário preencher o script come essas informações
+>apesar do código funcionar pra boa parte da tela verifique se a quantidade de botões e as coordenadas (usando a função detectorDeCoordenada) estão corretas. É necessário preencher o script com essas informações
 
 # Descrição
 <p>
